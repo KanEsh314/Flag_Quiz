@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="number_of_choices">Number Of Choices</string>
+    <string name="number_of_choices_description">number_of_choices_description</string>
+    <string name="world_regions">World Regions</string>
+    <string name="world_region_description">World Region Description</string>
+    <string name="question">Question</string>
+    <string name="image_desription">image_description</string>
+    <string name="guess_country">guess_country</string>
+    <string name="default_region">default_region</string>
+    <string name="default_region_message">default_message</string>
+    <string name="restarting_quiz">restarting_quiz</string>
+    <string name="results">results</string>
+    <string name="reset_quiz">reset_quiz</string>
+    <string name="incorrect_answer">incorrect_quiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
